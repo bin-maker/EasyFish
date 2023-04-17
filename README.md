@@ -24,19 +24,19 @@ HW在即，争取这个月成品放出来，算法汇编在手撸，真的在尽
 
 UI使用了三方库，预计软件总体积小于1.5mb，upx压缩后估计小于900kb，去掉UI库最多100kb，压缩后小于60kb，不过没必要，UI好看点也重要。
 
-EasyFish 开箱即用，开销极低，使用期间不需要安装任何中间件和任何脚本语言。
+EasyFish 开箱即用，开销极低，使用期间不需要安装任何中间件和任何解释型脚本语言。
 
 ![image](微信图片_20220728095708.png)
 ![image](image.png)
 
 =======04.17更新=======
 
-最近在忙公司的CTF比赛，精力有限，不过整体已经完工了，剩下内测一下没问题就发布。比以前好看多了吧~~
+最近在忙公司的CTF比赛，精力有限，不过整体已经完工了，剩下内测一下没问题就发布。MAC风格。
 
 ![image](https://user-images.githubusercontent.com/77133486/232483845-335ed90d-5069-4fee-a74d-66c768ec19d8.png)
 ![image](https://user-images.githubusercontent.com/77133486/232484090-309def42-032d-4a81-b9b1-ec934110f5d1.png)
 
-刚好Q2季度的目标之一就是完成公司内部的钓鱼测试演练并输出成果
+刚好Q2季度的目标之一就是完成公司内部的钓鱼测试演练。
 
 ![image](https://user-images.githubusercontent.com/77133486/232484640-13ad85da-f8d1-4e36-99d5-fdb139eb98dd.png)
 
