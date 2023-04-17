@@ -36,3 +36,8 @@ EasyFish 开箱即用，开销极低，使用期间不需要安装任何中间�
 ![image](https://user-images.githubusercontent.com/77133486/232483845-335ed90d-5069-4fee-a74d-66c768ec19d8.png)
 ![image](https://user-images.githubusercontent.com/77133486/232484090-309def42-032d-4a81-b9b1-ec934110f5d1.png)
 
+刚好Q2季度的目标之一就是完成公司内部的钓鱼测试演练并输出成果
+
+![image](https://user-images.githubusercontent.com/77133486/232484640-13ad85da-f8d1-4e36-99d5-fdb139eb98dd.png)
+
+
