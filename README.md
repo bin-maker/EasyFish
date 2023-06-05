@@ -1,4 +1,5 @@
 # Easyfish
+> 使用说明参考：https://www.yuque.com/mingtian-gbdvz/easyfish
 
 由于GoPhish底层用的是魔改后的GoMail，在smtp发信上存在一定问题，故抛弃，从个人的角度出发，实现一款简单、易用、轻量的钓鱼演练工具。由于没有什么时间，这个项目原本准备宕机的，废弃了，但是又有很多圈内朋友催，所以仓促改了下放上来，使用中有什么问题可以提 Issue，EasyFish 通信框架部分由 C++ 实现，UI 部分采用三方组件库 EXUI 实现。
 
