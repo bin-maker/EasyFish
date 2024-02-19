@@ -1,5 +1,6 @@
 # Easyfish（2024-01-26更新）
 > 使用说明参考：https://www.yuque.com/mingtian-gbdvz/easyfish
+
 > 使用案例参考 杰龙师傅 的真实演练：https://mp.weixin.qq.com/s/B4jmpmwP-HSl1EsROhQhDA
 
 由于GoPhish底层用的是魔改后的GoMail，在smtp发信上存在一定问题，故抛弃，从个人的角度出发，实现一款简单、易用、轻量的钓鱼演练工具。
