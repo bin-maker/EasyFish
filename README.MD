@@ -1,4 +1,4 @@
-# Easyfish（2024-01-26更新）
+# Easyfish（2024-02-19更新）
 > 使用说明参考：https://www.yuque.com/mingtian-gbdvz/easyfish
 
 > 使用案例参考 杰龙师傅 的真实演练：https://mp.weixin.qq.com/s/B4jmpmwP-HSl1EsROhQhDA
