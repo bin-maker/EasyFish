@@ -1,5 +1,6 @@
 # Easyfish（2024-01-26更新）
 > 使用说明参考：https://www.yuque.com/mingtian-gbdvz/easyfish
+> 使用案例参考 杰龙师傅 的真实演练：https://mp.weixin.qq.com/s/B4jmpmwP-HSl1EsROhQhDA
 
 由于GoPhish底层用的是魔改后的GoMail，在smtp发信上存在一定问题，故抛弃，从个人的角度出发，实现一款简单、易用、轻量的钓鱼演练工具。
 
@@ -18,12 +19,6 @@
 3、HVV 指定目标钓鱼
 
 （申明：软件不含任何恶意代码和后门，不含任何反调试和反VM代码，无任何恶意行为，支持任意形式的分析和病毒检测。目前只支持 Windows 平台，Mac用户请在虚拟机中测试。）
-
-CRC32: EB30E907
-
-MD5: D2AA76C998CE845BCA81400CD13274BA
-
-SHA-1: F3AB3126D740DE081038592F5789AE627975C93A
 
 
 
