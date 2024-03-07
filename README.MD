@@ -1,9 +1,10 @@
 # Easyfish（ 2024-03-07 更新）
+
+> 【最新消息】由于参与商业计划，产品和所有更新暂时下架，可以右上角点个关注，重新上架了会自动通知。
+
 > 使用说明参考：https://www.yuque.com/mingtian-gbdvz/easyfish
 
 > 使用案例参考 杰龙师傅 的真实演练：https://mp.weixin.qq.com/s/B4jmpmwP-HSl1EsROhQhDA
-
-> 参与商业计划，产品和所有更新暂时下架，可以右上角点个关注，重新上架了会自动通知。
 
 由于GoPhish底层用的是魔改后的GoMail，在smtp发信上存在一定问题，故抛弃，从个人的角度出发，实现一款简单、易用、轻量的钓鱼演练工具。
 
